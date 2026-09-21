@@ -1,4 +1,4 @@
-# atividade-geracao-Tech
+# atividade-geracao-tech
 
 # 1. Clonar o repositório criado
 git clone: (https://github.com/Liucera/atividade-geracao-Tech)
